@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "0AVbeeUTRyD7CMVA8xl6h9AK0cjjI0BvO/AZjymPU4gj/OYnqcvPjKZEblARBqG+urOGudyN9gUK0e7sscpVPw==",
+  "dgSpecHash": "LKZnexhQG3FjU4j0lgPmGBRWUAxc1BCsnYvtE1vmjYRSsuDxmb1KnICGGLeqE3IaqCMpGOpqyDpMrty1SCdXsw==",
   "success": true,
-  "projectFilePath": "F:\\PROYECTOS\\ICM\\my version\\my_icm\\my_icm\\ICM.Taxes.API.csproj",
+  "projectFilePath": "F:\\PROYECTOS\\ICM\\ICM-TEST\\my_icm\\ICM.Taxes.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Reinel\\.nuget\\packages\\microsoft.aspnetcore.jsonpatch\\3.1.16\\microsoft.aspnetcore.jsonpatch.3.1.16.nupkg.sha512",
     "C:\\Users\\Reinel\\.nuget\\packages\\microsoft.aspnetcore.mvc.newtonsoftjson\\3.1.16\\microsoft.aspnetcore.mvc.newtonsoftjson.3.1.16.nupkg.sha512",

@@ -16,10 +16,10 @@ namespace my_icm.Controllers
 {
     [Route("api/[controller]")]
     [ApiController]
-    public class openController : ControllerBase
+    public class OpenController : ControllerBase
     {
         private readonly ITaxService _taxService;
-        public openController(ITaxService taxService)
+        public OpenController(ITaxService taxService)
         {
             _taxService = taxService;
         }

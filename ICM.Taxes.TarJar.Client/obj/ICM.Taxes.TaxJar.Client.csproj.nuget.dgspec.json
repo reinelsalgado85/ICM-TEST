@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "F:\\PROYECTOS\\ICM\\my version\\my_icm\\ICM.Taxes.TarJar.Client\\ICM.Taxes.TaxJar.Client.csproj": {}
+    "F:\\PROYECTOS\\ICM\\ICM-TEST\\ICM.Taxes.TarJar.Client\\ICM.Taxes.TaxJar.Client.csproj": {}
   },
   "projects": {
-    "F:\\PROYECTOS\\ICM\\my version\\my_icm\\ICM.Taxes.Core\\ICM.Taxes.Core.csproj": {
+    "F:\\PROYECTOS\\ICM\\ICM-TEST\\ICM.Taxes.Core\\ICM.Taxes.Core.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\PROYECTOS\\ICM\\my version\\my_icm\\ICM.Taxes.Core\\ICM.Taxes.Core.csproj",
+        "projectUniqueName": "F:\\PROYECTOS\\ICM\\ICM-TEST\\ICM.Taxes.Core\\ICM.Taxes.Core.csproj",
         "projectName": "ICM.Taxes.Core",
-        "projectPath": "F:\\PROYECTOS\\ICM\\my version\\my_icm\\ICM.Taxes.Core\\ICM.Taxes.Core.csproj",
+        "projectPath": "F:\\PROYECTOS\\ICM\\ICM-TEST\\ICM.Taxes.Core\\ICM.Taxes.Core.csproj",
         "packagesPath": "C:\\Users\\Reinel\\.nuget\\packages\\",
-        "outputPath": "F:\\PROYECTOS\\ICM\\my version\\my_icm\\ICM.Taxes.Core\\obj\\",
+        "outputPath": "F:\\PROYECTOS\\ICM\\ICM-TEST\\ICM.Taxes.Core\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -61,14 +61,14 @@
         }
       }
     },
-    "F:\\PROYECTOS\\ICM\\my version\\my_icm\\ICM.Taxes.TarJar.Client\\ICM.Taxes.TaxJar.Client.csproj": {
+    "F:\\PROYECTOS\\ICM\\ICM-TEST\\ICM.Taxes.TarJar.Client\\ICM.Taxes.TaxJar.Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "F:\\PROYECTOS\\ICM\\my version\\my_icm\\ICM.Taxes.TarJar.Client\\ICM.Taxes.TaxJar.Client.csproj",
+        "projectUniqueName": "F:\\PROYECTOS\\ICM\\ICM-TEST\\ICM.Taxes.TarJar.Client\\ICM.Taxes.TaxJar.Client.csproj",
         "projectName": "ICM.Taxes.TaxJar.Client",
-        "projectPath": "F:\\PROYECTOS\\ICM\\my version\\my_icm\\ICM.Taxes.TarJar.Client\\ICM.Taxes.TaxJar.Client.csproj",
+        "projectPath": "F:\\PROYECTOS\\ICM\\ICM-TEST\\ICM.Taxes.TarJar.Client\\ICM.Taxes.TaxJar.Client.csproj",
         "packagesPath": "C:\\Users\\Reinel\\.nuget\\packages\\",
-        "outputPath": "F:\\PROYECTOS\\ICM\\my version\\my_icm\\ICM.Taxes.TarJar.Client\\obj\\",
+        "outputPath": "F:\\PROYECTOS\\ICM\\ICM-TEST\\ICM.Taxes.TarJar.Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -88,8 +88,8 @@
           "netcoreapp3.1": {
             "targetAlias": "netcoreapp3.1",
             "projectReferences": {
-              "F:\\PROYECTOS\\ICM\\my version\\my_icm\\ICM.Taxes.Core\\ICM.Taxes.Core.csproj": {
-                "projectPath": "F:\\PROYECTOS\\ICM\\my version\\my_icm\\ICM.Taxes.Core\\ICM.Taxes.Core.csproj"
+              "F:\\PROYECTOS\\ICM\\ICM-TEST\\ICM.Taxes.Core\\ICM.Taxes.Core.csproj": {
+                "projectPath": "F:\\PROYECTOS\\ICM\\ICM-TEST\\ICM.Taxes.Core\\ICM.Taxes.Core.csproj"
               }
             }
           }

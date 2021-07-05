@@ -1,0 +1,79 @@
+{
+	"info": {
+		"_postman_id": "f8a8d2bc-946d-4700-afe1-e216d4f804e3",
+		"name": "ICM",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Get Rates",
+			"request": {
+				"method": "GET",
+				"header": [],
+				"url": {
+					"raw": "https://localhost:44376/api/open/rates/33196?country=CA&state=VT&city=Williston&street=312 Hurricane Lane",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44376",
+					"path": [
+						"api",
+						"open",
+						"rates",
+						"33196"
+					],
+					"query": [
+						{
+							"key": "country",
+							"value": "CA"
+						},
+						{
+							"key": "state",
+							"value": "VT"
+						},
+						{
+							"key": "city",
+							"value": "Williston"
+						},
+						{
+							"key": "street",
+							"value": "312 Hurricane Lane"
+						}
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Tax Calculation",
+			"request": {
+				"method": "POST",
+				"header": [],
+				"body": {
+					"mode": "raw",
+					"raw": "{\r\n  \"from_country\": \"US\",\r\n  \"from_zip\": \"07001\",\r\n  \"from_state\": \"NJ\",\r\n  \"to_country\": \"US\",\r\n  \"to_zip\": \"07446\",\r\n  \"to_state\": \"NJ\",\r\n  \"amount\": 16.50,\r\n  \"shipping\": 1.5,\r\n   \"line_items\": [\r\n     {\r\n       \"quantity\": 1,\r\n       \"unit_price\": 15.0,\r\n       \"product_tax_code\": \"31000\"\r\n     }\r\n   ],\r\n    \"nexus_addresses\": [\r\n       {\r\n         \"country\": \"US\",\r\n         \"state\": \"FL\",\r\n         \"zip\": \"32801\"\r\n       }\r\n        ,\r\n       {\r\n         \"country\": \"US\",\r\n         \"state\": \"MO\",\r\n         \"zip\": \"63101\"\r\n       }\r\n    ]\r\n}",
+					"options": {
+						"raw": {
+							"language": "json"
+						}
+					}
+				},
+				"url": {
+					"raw": "https://localhost:44376/api/open/taxes",
+					"protocol": "https",
+					"host": [
+						"localhost"
+					],
+					"port": "44376",
+					"path": [
+						"api",
+						"open",
+						"taxes"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}

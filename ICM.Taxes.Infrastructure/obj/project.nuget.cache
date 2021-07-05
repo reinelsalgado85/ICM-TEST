@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "2BN+a7coICnQ7SbWGy0fklDyGrdb97BiGYF0bFIjrGzaRfLRHXFkoJJMmKQ4wigCbE5D+V8wnZuJhKZi4fBl0g==",
+  "dgSpecHash": "jNWM2U20AGQ2eH5M9SFlB5Ww5mOmccePok7NbZo30z8dXMjtIoGjrcS5u3xcIVz9il+6yTFNio7jw1LuVK+azw==",
   "success": true,
-  "projectFilePath": "F:\\PROYECTOS\\ICM\\my version\\my_icm\\ICM.Taxes.Infrastructure\\ICM.Taxes.Infrastructure.csproj",
+  "projectFilePath": "F:\\PROYECTOS\\ICM\\ICM-TEST\\ICM.Taxes.Infrastructure\\ICM.Taxes.Infrastructure.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

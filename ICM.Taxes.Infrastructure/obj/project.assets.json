@@ -33,11 +33,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "F:\\PROYECTOS\\ICM\\my version\\my_icm\\ICM.Taxes.Infrastructure\\ICM.Taxes.Infrastructure.csproj",
+      "projectUniqueName": "F:\\PROYECTOS\\ICM\\ICM-TEST\\ICM.Taxes.Infrastructure\\ICM.Taxes.Infrastructure.csproj",
       "projectName": "ICM.Taxes.Infrastructure",
-      "projectPath": "F:\\PROYECTOS\\ICM\\my version\\my_icm\\ICM.Taxes.Infrastructure\\ICM.Taxes.Infrastructure.csproj",
+      "projectPath": "F:\\PROYECTOS\\ICM\\ICM-TEST\\ICM.Taxes.Infrastructure\\ICM.Taxes.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\Reinel\\.nuget\\packages\\",
-      "outputPath": "F:\\PROYECTOS\\ICM\\my version\\my_icm\\ICM.Taxes.Infrastructure\\obj\\",
+      "outputPath": "F:\\PROYECTOS\\ICM\\ICM-TEST\\ICM.Taxes.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -57,8 +57,8 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "projectReferences": {
-            "F:\\PROYECTOS\\ICM\\my version\\my_icm\\ICM.Taxes.Core\\ICM.Taxes.Core.csproj": {
-              "projectPath": "F:\\PROYECTOS\\ICM\\my version\\my_icm\\ICM.Taxes.Core\\ICM.Taxes.Core.csproj"
+            "F:\\PROYECTOS\\ICM\\ICM-TEST\\ICM.Taxes.Core\\ICM.Taxes.Core.csproj": {
+              "projectPath": "F:\\PROYECTOS\\ICM\\ICM-TEST\\ICM.Taxes.Core\\ICM.Taxes.Core.csproj"
             }
           }
         }
