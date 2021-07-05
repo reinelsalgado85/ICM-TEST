@@ -1,0 +1,9 @@
+F:\PROYECTOS\ICM\my version\my_icm\ICM.Taxes.Services\bin\Debug\netcoreapp3.1\ICM.Taxes.Services.deps.json
+F:\PROYECTOS\ICM\my version\my_icm\ICM.Taxes.Services\bin\Debug\netcoreapp3.1\ICM.Taxes.Services.dll
+F:\PROYECTOS\ICM\my version\my_icm\ICM.Taxes.Services\bin\Debug\netcoreapp3.1\ICM.Taxes.Services.pdb
+F:\PROYECTOS\ICM\my version\my_icm\ICM.Taxes.Services\obj\Debug\netcoreapp3.1\ICM.Taxes.Services.csprojAssemblyReference.cache
+F:\PROYECTOS\ICM\my version\my_icm\ICM.Taxes.Services\obj\Debug\netcoreapp3.1\ICM.Taxes.Services.AssemblyInfoInputs.cache
+F:\PROYECTOS\ICM\my version\my_icm\ICM.Taxes.Services\obj\Debug\netcoreapp3.1\ICM.Taxes.Services.AssemblyInfo.cs
+F:\PROYECTOS\ICM\my version\my_icm\ICM.Taxes.Services\obj\Debug\netcoreapp3.1\ICM.Taxes.Services.csproj.CoreCompileInputs.cache
+F:\PROYECTOS\ICM\my version\my_icm\ICM.Taxes.Services\obj\Debug\netcoreapp3.1\ICM.Taxes.Services.dll
+F:\PROYECTOS\ICM\my version\my_icm\ICM.Taxes.Services\obj\Debug\netcoreapp3.1\ICM.Taxes.Services.pdb

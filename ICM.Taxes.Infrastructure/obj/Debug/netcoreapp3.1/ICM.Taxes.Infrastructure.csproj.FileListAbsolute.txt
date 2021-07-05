@@ -1,0 +1,12 @@
+F:\PROYECTOS\ICM\my version\my_icm\ICM.Taxes.Infrastructure\bin\Debug\netcoreapp3.1\ICM.Taxes.Infrastructure.deps.json
+F:\PROYECTOS\ICM\my version\my_icm\ICM.Taxes.Infrastructure\bin\Debug\netcoreapp3.1\ICM.Taxes.Infrastructure.dll
+F:\PROYECTOS\ICM\my version\my_icm\ICM.Taxes.Infrastructure\bin\Debug\netcoreapp3.1\ICM.Taxes.Infrastructure.pdb
+F:\PROYECTOS\ICM\my version\my_icm\ICM.Taxes.Infrastructure\bin\Debug\netcoreapp3.1\ICM.Taxes.Core.dll
+F:\PROYECTOS\ICM\my version\my_icm\ICM.Taxes.Infrastructure\bin\Debug\netcoreapp3.1\ICM.Taxes.Core.pdb
+F:\PROYECTOS\ICM\my version\my_icm\ICM.Taxes.Infrastructure\obj\Debug\netcoreapp3.1\ICM.Taxes.Infrastructure.csprojAssemblyReference.cache
+F:\PROYECTOS\ICM\my version\my_icm\ICM.Taxes.Infrastructure\obj\Debug\netcoreapp3.1\ICM.Taxes.Infrastructure.AssemblyInfoInputs.cache
+F:\PROYECTOS\ICM\my version\my_icm\ICM.Taxes.Infrastructure\obj\Debug\netcoreapp3.1\ICM.Taxes.Infrastructure.AssemblyInfo.cs
+F:\PROYECTOS\ICM\my version\my_icm\ICM.Taxes.Infrastructure\obj\Debug\netcoreapp3.1\ICM.Taxes.Infrastructure.csproj.CoreCompileInputs.cache
+F:\PROYECTOS\ICM\my version\my_icm\ICM.Taxes.Infrastructure\obj\Debug\netcoreapp3.1\ICM.Taxes.Infrastructure.csproj.CopyComplete
+F:\PROYECTOS\ICM\my version\my_icm\ICM.Taxes.Infrastructure\obj\Debug\netcoreapp3.1\ICM.Taxes.Infrastructure.dll
+F:\PROYECTOS\ICM\my version\my_icm\ICM.Taxes.Infrastructure\obj\Debug\netcoreapp3.1\ICM.Taxes.Infrastructure.pdb

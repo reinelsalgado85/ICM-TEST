@@ -1,0 +1,12 @@
+F:\PROYECTOS\ICM\my version\my_icm\ICM.Taxes.TarJar.Client\bin\Debug\netcoreapp3.1\ICM.Taxes.TarJar.Client.deps.json
+F:\PROYECTOS\ICM\my version\my_icm\ICM.Taxes.TarJar.Client\bin\Debug\netcoreapp3.1\ICM.Taxes.TarJar.Client.dll
+F:\PROYECTOS\ICM\my version\my_icm\ICM.Taxes.TarJar.Client\bin\Debug\netcoreapp3.1\ICM.Taxes.TarJar.Client.pdb
+F:\PROYECTOS\ICM\my version\my_icm\ICM.Taxes.TarJar.Client\bin\Debug\netcoreapp3.1\ICM.Taxes.Core.dll
+F:\PROYECTOS\ICM\my version\my_icm\ICM.Taxes.TarJar.Client\bin\Debug\netcoreapp3.1\ICM.Taxes.Core.pdb
+F:\PROYECTOS\ICM\my version\my_icm\ICM.Taxes.TarJar.Client\obj\Debug\netcoreapp3.1\ICM.Taxes.TarJar.Client.csprojAssemblyReference.cache
+F:\PROYECTOS\ICM\my version\my_icm\ICM.Taxes.TarJar.Client\obj\Debug\netcoreapp3.1\ICM.Taxes.TarJar.Client.AssemblyInfoInputs.cache
+F:\PROYECTOS\ICM\my version\my_icm\ICM.Taxes.TarJar.Client\obj\Debug\netcoreapp3.1\ICM.Taxes.TarJar.Client.AssemblyInfo.cs
+F:\PROYECTOS\ICM\my version\my_icm\ICM.Taxes.TarJar.Client\obj\Debug\netcoreapp3.1\ICM.Taxes.TarJar.Client.csproj.CoreCompileInputs.cache
+F:\PROYECTOS\ICM\my version\my_icm\ICM.Taxes.TarJar.Client\obj\Debug\netcoreapp3.1\ICM.Taxes.TarJar.Client.csproj.CopyComplete
+F:\PROYECTOS\ICM\my version\my_icm\ICM.Taxes.TarJar.Client\obj\Debug\netcoreapp3.1\ICM.Taxes.TarJar.Client.dll
+F:\PROYECTOS\ICM\my version\my_icm\ICM.Taxes.TarJar.Client\obj\Debug\netcoreapp3.1\ICM.Taxes.TarJar.Client.pdb
