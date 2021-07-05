@@ -12,7 +12,7 @@
     "IIS Express": {
       "commandName": "IISExpress",
       "launchBrowser": true,
-      "launchUrl": "api/open/ratesee/33196?country=US",
+      "launchUrl": "api/open/rates/33196?country=US",
       "environmentVariables": {
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
